@@ -22,7 +22,7 @@ Seattle, Washington, United States
 
 ## Summary
 
-People-first engineering leader building high-performing teams with measurable satisfaction and execution velocity. Pioneer of AI-driven tooling delivering 10x efficiency gains. Cross-border mentor growing engineers and capabilities.
+People-first engineering leader managing and influencing 40+ engineers simultaneously, building high-performing organizations with measurable employee satisfaction and execution velocity. Pioneer of AI-driven tooling delivering 10x efficiency gains. Cross-border mentor growing engineers from junior developers to technical leaders.
 
 ## Professional Experience
 
@@ -34,9 +34,10 @@ People-first engineering leader building high-performing teams with measurable s
 
 ##### Innovated Development & Practices
 
-- Led product teams with people-first mentorship; drove high employee satisfaction and execution velocity. On time, under budget, with high customer satisfaction.
-- Pioneered AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs
-- Reframed Quality Engineering as shared partnership, replacing adversarial dynamics with aligned goals and collaborative problem-solving
+- Directed Quality Engineering practice leading up to 24 engineers; established people-first mentorship culture driving measurable employee satisfaction and execution velocity with consistent on-time, under-budget delivery
+- Managed up to 5 direct reports while leading "virtual reports" on product teams of up to 10 engineers
+- Pioneered AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs across product organization
+- Reframed Quality Engineering as shared partnership with development teams, replacing adversarial dynamics with aligned goals and collaborative problem-solving
 - Transformed quality processes for AI-first era; delivered numerous high-impact proof-of-concept projects accelerating time-to-market
 
 #### Lead Engineer, Senior Quality Engineer
@@ -84,10 +85,10 @@ People-first engineering leader building high-performing teams with measurable s
 
 ##### Lead Live Quality
 
-- Drove most stable production period in product history through quality-operations partnership approach
-- Served as Functional Lead for sustainment engineering and releases; mentored team leaders, maintained on-time delivery
-- Managed team execution through goal alignment, unblocking obstacles, and empowering independent decision-making
-- Led 24/7 incident response and live operations; built team capability for high-pressure decision-making
+- Led 5-person QE team driving most stable production period in product history; established quality-operations partnership approach replacing siloed dynamics
+- Served as Functional Lead for sustainment engineering and releases; mentored team leaders to independent decision-making, maintained on-time delivery
+- Managed team execution through goal alignment, unblocking obstacles, and empowering engineers to own production quality
+- Led 24/7 incident response and live operations; built team capability for high-pressure troubleshooting and rapid issue resolution
 
 ##### Put Fun in the Workplace
 

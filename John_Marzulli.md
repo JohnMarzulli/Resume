@@ -178,7 +178,7 @@ An ad-free, cookie-free way to easily manage & share your grocery lists.
 
 Mobile-first. Designed for simplicity, focus, and ease.
 
-(TypeScript, Node, Azure)
+(TypeScript, Node, Azure, React, Vite)
 
 <https://grocer-ease.net/>
 

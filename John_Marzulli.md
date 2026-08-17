@@ -25,7 +25,7 @@ Leverage knowledge sharing, peer review, collaboration, iteration, and scientifi
 
 Use the power of knowledge and collaboration to amplify my experiences through others.
 
-## Experience
+## Professional Experience
 
 ### Valorem Reply
 
@@ -170,6 +170,60 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 *May 1998 – August 1998, Gaithersburg, MD*
 
 - Programmed interactive world objects using custom LISP‑based language for Centipede 3D
+
+## Current Open Source Projects
+
+### GrocerEase
+
+An add free, cookie free, way to easily manage & share your grocery lists.
+
+Mobile first. Designed for simplicity, focus, and ease.
+
+(TypeScript, Node, Azure)
+
+<https://grocer-ease.net/>
+
+### StratuxHUD
+
+A full Head Up Display visualization for light aircraft.
+
+Displays current traffic, weather, and airport information, and more.
+
+Integrates with GDL-90 and Dynon data sources.
+
+Complete with an Open Source display system.
+
+(Raspberry Pi, Python, TypeScript, Node)
+
+<https://github.com/JohnMarzulli/StratuxHud>
+
+### Busy Light
+
+A physical status light you can mount to help keep your meetings and time distraction free.
+
+(Arduino, C)
+
+<https://github.com/JohnMarzulli/BusyLight>
+
+### Weather Map
+
+See Aviation Weather as a showpiece of your house!
+
+Adapatable to multiple controllable LEDs.
+
+(Raspberry Pi, Python, Electronics)
+
+<https://github.com/JohnMarzulli/categorical-sectional>
+
+### Hangar Buddy
+
+Monitor and control your hangar without Internet or a Cellphone!
+
+Connects monitoring systems and controllable devices in a secure way using Long Range Radio.
+
+(Raspberry Pi, Arduino, LoRa, Electronics)
+
+<https://github.com/JohnMarzulli/HangarBuddy>
 
 ## Education
 

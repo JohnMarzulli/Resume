@@ -280,8 +280,6 @@
     white-space: nowrap;
   }
 
-  .role-when.current { color: var(--accent-2); }
-
   .role ul.bullets {
     margin: 0;
     padding-left: 1.1rem;
@@ -302,6 +300,47 @@
     margin: 1rem 0 0.5rem;
   }
   .theme-label:first-of-type { margin-top: 0; }
+
+  /* ---------- Projects ---------- */
+
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .project {
+    padding-bottom: 1.75rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .project:last-child { padding-bottom: 0; border-bottom: none; }
+
+  .project-name {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.6rem;
+    color: var(--ink);
+  }
+
+  .project-desc {
+    margin: 0 0 0.5rem;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+
+  .project-tech {
+    margin: 0 0 0.4rem;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  .project-link {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+  }
 
   footer.colophon {
     margin-top: 3.5rem;
@@ -365,9 +404,16 @@
       </section>
 
       <section class="experience">
-        <h2 class="section-title">Experience</h2>
+        <h2 class="section-title">Professional Experience</h2>
         <div class="timeline">
           <!-- EXPERIENCE -->
+        </div>
+      </section>
+
+      <section class="projects">
+        <h2 class="section-title">Open Source Projects</h2>
+        <div class="project-list">
+          <!-- PROJECTS -->
         </div>
       </section>
 

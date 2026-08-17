@@ -118,8 +118,8 @@ if (eduParts.length >= 3) {
         <div class="edu-years">${esc(years)}</div>`;
 }
 
-// Experience (complex nested structure)
-const expSection = parseSection('Experience');
+// Professional Experience (complex nested structure)
+const expSection = parseSection('Professional Experience');
 const expLines = expSection.split('\n');
 let expHtml = '';
 let i = 0;
@@ -148,8 +148,7 @@ while (i < expLines.length) {
         while (i < expLines.length && !expLines[i].trim()) i++;
         if (i < expLines.length && expLines[i].match(/^\*/)) {
           const dates = expLines[i].replace(/^\*|\*$/g, '').trim();
-          const isCurrent = dates.includes('Present');
-          expHtml += `                <span class="role-when${isCurrent ? ' current' : ''}">${esc(dates)}</span>\n`;
+          expHtml += `                <span class="role-when}">${esc(dates)}</span>\n`;
           i++;
         }
         expHtml += `              </div>\n`;
@@ -213,6 +212,67 @@ while (i < expLines.length) {
   }
 }
 
+// Open Source Projects
+const projectsSection = parseSection('Current Open Source Projects');
+const projectLines = projectsSection.split('\n');
+let projectsHtml = '';
+let j = 0;
+
+while (j < projectLines.length) {
+  const line = projectLines[j];
+
+  if (line.match(/^### /)) {
+    const projectName = line.replace(/^### /, '');
+    projectsHtml += `          <div class="project">\n`;
+    projectsHtml += `            <h3 class="project-name">${esc(projectName)}</h3>\n`;
+    j++;
+
+    // Collect description lines, tech, and link until next project
+    const descriptions = [];
+    let tech = '';
+    let link = '';
+
+    while (j < projectLines.length && !projectLines[j].match(/^### /)) {
+      const l = projectLines[j];
+
+      // Tech stack line (in parentheses)
+      if (l.match(/^\(/)) {
+        tech = l.replace(/^\(|\)$/g, '').trim();
+        j++;
+        continue;
+      }
+
+      // Link line
+      if (l.match(/^<http/)) {
+        link = l.replace(/^<|>$/g, '').trim();
+        j++;
+        continue;
+      }
+
+      // Description lines (non-empty, not special)
+      if (l.trim() && !l.match(/^#/)) {
+        descriptions.push(l.trim());
+      }
+
+      j++;
+    }
+
+    // Render project
+    if (descriptions.length > 0) {
+      projectsHtml += `            <p class="project-desc">${esc(descriptions.join(' '))}</p>\n`;
+    }
+    if (tech) {
+      projectsHtml += `            <p class="project-tech">${esc(tech)}</p>\n`;
+    }
+    if (link) {
+      projectsHtml += `            <p class="project-link"><a href="${esc(link)}">${esc(link)}</a></p>\n`;
+    }
+    projectsHtml += `          </div>\n`;
+  } else {
+    j++;
+  }
+}
+
 // Fill template
 const html = template
   .replace('<!-- NAME -->', esc(name))
@@ -223,6 +283,7 @@ const html = template
   .replace('<!-- TECHNOLOGIES -->', techs)
   .replace('<!-- EDUCATION -->', eduHtml)
   .replace('<!-- SUMMARY -->', summaryHtml)
-  .replace('<!-- EXPERIENCE -->', expHtml);
+  .replace('<!-- EXPERIENCE -->', expHtml)
+  .replace('<!-- PROJECTS -->', projectsHtml);
 
 fs.writeFileSync('../John_Marzulli.html', html);

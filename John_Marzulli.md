@@ -1,6 +1,6 @@
 # John Marzulli
 
-**Engineering Manager & Quality Engineering**
+**Engineering Manager, Development Lead, & Quality Engineering**
 Seattle, Washington, United States
 
 [john.marzulli@outlook.com](mailto:john.marzulli@outlook.com) · [LinkedIn](https://www.linkedin.com/in/johnmarzulli) · [GitHub](https://github.com/JohnMarzulli)
@@ -35,6 +35,7 @@ People-first engineering leader managing and influencing 40+ engineers simultane
 ##### Innovated Development & Practices
 
 - Directed Quality Engineering practice leading up to 24 engineers; established people-first mentorship culture driving measurable employee satisfaction and execution velocity with consistent on-time, under-budget delivery
+- Worked directly with stakeholders and customers on requirements and delivery
 - Managed up to 5 direct reports while leading "virtual reports" on product teams of up to 10 engineers
 - Pioneered AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs across product organization
 - Reframed Quality Engineering as shared partnership with development teams, replacing adversarial dynamics with aligned goals and collaborative problem-solving

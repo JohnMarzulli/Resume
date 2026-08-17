@@ -1,11 +1,9 @@
 # John Marzulli
 
-Engineering Manager & Quality Engineering
-Seattle, Washington, United States  
+**Engineering Manager & Quality Engineering**
+Seattle, Washington, United States
 
-**Email:** <john.marzulli@outlook.com>  
-**LinkedIn:** <https://www.linkedin.com/in/johnmarzulli>  
-**GitHub:** <https://github.com/JohnMarzulli>  
+[john.marzulli@outlook.com](mailto:john.marzulli@outlook.com) · [LinkedIn](https://www.linkedin.com/in/johnmarzulli) · [GitHub](https://github.com/JohnMarzulli)
 
 ## Top Skills
 
@@ -31,89 +29,89 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ### Valorem Reply
 
-#### Senior Consultant, Director of Quality Engineering  
+#### Senior Consultant, Director of Quality Engineering
 
 *February 2023 – Present, Seattle, WA*
 
-- Lead multiple product teams simultaneously  
-- Created multiple internal custom MCP servers to accelerate development, reduce token cost, and improve quality  
-- Defined and led Quality Engineering across the company  
-- Redefined the Quality process in the AI‑first development era  
-- Created, drove, and innovated on numerous technology proof‑of‑concept projects  
+- Lead multiple product teams simultaneously
+- Created multiple internal custom MCP servers to accelerate development, reduce token cost, and improve quality
+- Defined and led Quality Engineering across the company
+- Redefined the Quality process in the AI‑first development era
+- Created, drove, and innovated on numerous technology proof‑of‑concept projects
 
-#### Lead Engineer, Senior Quality Engineer  
+#### Lead Engineer, Senior Quality Engineer
 
 *July 2017 – February 2023, Seattle, WA*
 
-- Leading development of cutting‑edge REST, Web, and DB test automation  
-- Lead a global, remote engineering team  
+- Leading development of cutting‑edge REST, Web, and DB test automation
+- Lead a global, remote engineering team
 
 ### DocuSign
 
-#### Senior Software Development Engineer in Test  
+#### Senior Software Development Engineer in Test
 
 *June 2016 – March 2017, Seattle, WA*
 
-- Web UI Automation and Internationalization for the Signing component  
+- Web UI Automation and Internationalization for the Signing component
 
 ### Wizards of the Coast
 
-#### SDET / QE Lead for Live & Maintenance  
+#### SDET / QE Lead for Live & Maintenance
 
 *May 2013 – June 2016, Renton, WA*
 
 ##### Improved Code Quality
 
-- Introduced collaborative code reviews  
-- Drove earlier issue detection  
-- Built integrated static code analysis harness for deep issue discovery  
+- Introduced collaborative code reviews
+- Drove earlier issue detection
+- Built integrated static code analysis harness for deep issue discovery
 
 ##### Drove Process Forward
 
-- Created SDET test case standards and review process  
-- Built standardized SDET screening process for FTE, contract, and vendor candidates  
-- Created massive online repository transforming tribal knowledge into institutional knowledge  
+- Created SDET test case standards and review process
+- Built standardized SDET screening process for FTE, contract, and vendor candidates
+- Created massive online repository transforming tribal knowledge into institutional knowledge
 
 ##### Innovated With Tools
 
-- Automated function/performance comparison testing for TSQL upgrades  
-- Dashboard, alerting, data collection, and visualization stack for Magic the Gathering Online  
-- Performance and functional test tools for a credit card processing system  
-- Tool/reporting system verifying contents of digital Booster Packs  
-- Automated environment health checking and reporting  
+- Automated function/performance comparison testing for TSQL upgrades
+- Dashboard, alerting, data collection, and visualization stack for Magic the Gathering Online
+- Performance and functional test tools for a credit card processing system
+- Tool/reporting system verifying contents of digital Booster Packs
+- Automated environment health checking and reporting
 
 ##### Lead Live Quality
 
-- Helped drive the most stable period in MTGO history  
-- Acted as Functional Lead for MTGO sustainment engineering and service pack releases  
-- Assigned work, tracked progress, ran standups, and unblocked team members  
-- Provided 24/7 incident response, DevOps, and live operations  
+- Helped drive the most stable period in MTGO history
+- Acted as Functional Lead for MTGO sustainment engineering and service pack releases
+- Assigned work, tracked progress, ran standups, and unblocked team members
+- Provided 24/7 incident response, DevOps, and live operations
 
 ##### Put Fun in the Workplace
 
-- Organized morale events: chili cook‑offs, coding competitions  
+- Organized morale events: chili cook‑offs, coding competitions
 
-#### Contract SDET  
+#### Contract SDET
 
 *April 2012 – May 2013, Renton, WA*
 
-- Wrote automation and tested credit card processor rewrite  
-- Led automation/testing for new MTGO features  
+- Wrote automation and tested credit card processor rewrite
+- Led automation/testing for new MTGO features
 
 ### Microsoft
 
-#### SDE  
+#### SDE
 
 *August 2008 – April 2012, Bellevue, WA*
 
 ##### Helped Shape the Cloud
 
-- Acted in combined SDE/SDET role  
-- Created CI system used within Bing  
-- Built massive distributed data delivery system  
-- Supported Bing with DevOps across large data centers  
-- Created/tested cloud infrastructure components  
-- Evangelized Bing components to partner teams  
+- Acted in combined SDE/SDET role
+- Created CI system used within Bing
+- Built massive distributed data delivery system
+- Supported Bing with DevOps across large data centers
+- Created/tested cloud infrastructure components
+- Evangelized Bing components to partner teams
 
 ### THQ
 
@@ -121,9 +119,9 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 *May 2007 – July 2008, Kirkland, WA*
 
-- Shipped a game in under a year  
-- Designed/implemented AI for Destroy All Humans 3  
-- Optimized DAH3 for Xbox 360  
+- Shipped a game in under a year
+- Designed/implemented AI for Destroy All Humans 3
+- Optimized DAH3 for Xbox 360
 
 ### Microsoft
 
@@ -133,29 +131,29 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ##### Created Next Generation Online Play
 
-- Built cross‑platform competitive play between Xbox 360 and PC  
-- Implemented matchmaking, networking, and Xbox Live features for Shadowrun  
-- Created telemetry system for player behavior, network quality, and crash dumps  
-- Built custom Font Maker tool with advanced typography features  
-- Created help system for content editor with rich inline documentation  
-- Supported Xbox 360 launch with samples and solutions for partners  
+- Built cross‑platform competitive play between Xbox 360 and PC
+- Implemented matchmaking, networking, and Xbox Live features for Shadowrun
+- Created telemetry system for player behavior, network quality, and crash dumps
+- Built custom Font Maker tool with advanced typography features
+- Created help system for content editor with rich inline documentation
+- Supported Xbox 360 launch with samples and solutions for partners
 
 ### Microsoft
 
-#### Contract SDE  
+#### Contract SDE
 
 *2004 – 2005, Redmond, WA*
 
 ##### Created and Shared Knowledge
 
-- Led team demonstrating new Xbox Live features  
-- Managed schedule, requirements, and task distribution  
-- Wrote samples, documentation, and best practices for Xbox Live 3.0  
+- Led team demonstrating new Xbox Live features
+- Managed schedule, requirements, and task distribution
+- Wrote samples, documentation, and best practices for Xbox Live 3.0
 
 ##### Built Bridges Between Dev, Test, and Management
 
-- Prepared Sudeki for release: fixed memory, performance, blocking issues  
-- Coordinated with test to repro and root‑cause issues offshore teams couldn’t resolve  
+- Prepared Sudeki for release: fixed memory, performance, blocking issues
+- Coordinated with test to repro and root‑cause issues offshore teams couldn’t resolve
 
 ### Terminal Reality
 
@@ -163,19 +161,19 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 *2001 – 2003, Lewisville, TX*
 
-- AI/gameplay programmer for "4x4 Evo 2" and "Roadkill"  
+- AI/gameplay programmer for "4x4 Evo 2" and "Roadkill"
 
 ### Leaping Lizard Software
 
-#### Programming Intern  
+#### Programming Intern
 
 *May 1998 – August 1998, Gaithersburg, MD*
 
-- Programmed interactive world objects using custom LISP‑based language for Centipede 3D  
+- Programmed interactive world objects using custom LISP‑based language for Centipede 3D
 
 ## Education
 
-### St. Mary’s College of Maryland  
+### St. Mary’s College of Maryland
 
-**BA, Computer Science**  
+**BA, Computer Science**
 *1997 – 2001*

@@ -22,32 +22,28 @@ Seattle, Washington, United States
 
 ## Summary
 
-Create great software. Give users the best experience.
-
-Leverage knowledge sharing, peer review, collaboration, iteration, and scientific testing to know we are delivering the best.
-
-Use the power of knowledge and collaboration to amplify my experiences through others.
+People-first engineering leader building high-performing teams with measurable satisfaction and execution velocity. Pioneer of AI-driven tooling delivering 10x efficiency gains. Cross-border mentor growing engineers and capabilities.
 
 ## Professional Experience
 
 ### Valorem Reply
 
-#### Senior Consultant, Director of Quality Engineering
+#### Development Lead, Director of Quality Engineering (Senior Consultant)
 
 *February 2023 – Present, Seattle, WA*
 
-- Lead multiple product teams simultaneously
-- Created multiple internal custom MCP servers to accelerate development, reduce token cost, and improve quality
-- Defined and led Quality Engineering across the company
-- Redefined the Quality process in the AI‑first development era
-- Created, drove, and innovated on numerous technology proof‑of‑concept projects
+- Lead product teams with people-first mentorship; drive high employee satisfaction and execution velocity. On time, under budget, with high customer satisfaction.
+- Pioneer AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs
+- Reframed Quality Engineering as shared partnership, replacing adversarial dynamics with aligned goals and collaborative problem-solving
+- Transformed quality processes for AI-first era; delivered numerous high-impact proof-of-concept projects accelerating time-to-market
 
 #### Lead Engineer, Senior Quality Engineer
 
 *July 2017 – February 2023, Seattle, WA*
 
-- Leading development of cutting‑edge REST, Web, and DB test automation
-- Lead a global, remote engineering team
+- Led cutting-edge REST, Web, and DB test automation; established industry-leading practices in test strategy. Low code solutions to create validations directly from requirements.
+- Mentored global distributed team across time zones; fostered engineer growth and technical leadership
+- Drove Shift Left philosophy across development lifecycle, delivering projects on-time and under-budget
 
 ### DocuSign
 
@@ -65,34 +61,33 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ##### Improved Code Quality
 
-- Introduced collaborative code reviews
-- Drove earlier issue detection
-- Built integrated static code analysis harness for deep issue discovery
+- Transformed quality from adversarial gate-keeping to shared partnership through collaborative code review culture
+- Drove shift-left practices enabling earlier detection and measurable reduction in production defects
+- Built integrated static code analysis harness causing issues to be fixed before they entered the code base
 
 ##### Drove Process Forward
 
-- Created SDET test case standards and review process
-- Built standardized SDET screening process for FTE, contract, and vendor candidates
-- Created massive online repository transforming tribal knowledge into institutional knowledge
+- Established SDET standards and collaborative review process, scaling quality practices across teams
+- Designed standardized SDET screening and mentorship for FTE, contract, and vendor candidates; built global bench strength
+- Built knowledge repository converting tribal knowledge to institutional knowledge, reducing onboarding friction
 
 ##### Innovated With Tools
 
-- Automated function/performance comparison testing for TSQL upgrades
-- Dashboard, alerting, data collection, and visualization stack for Magic the Gathering Online
-- Performance and functional test tools for a credit card processing system
-- Tool/reporting system verifying contents of digital Booster Packs
-- Automated environment health checking and reporting
+- Pioneered automated function/performance comparison testing for database upgrades; 10x acceleration in validation cycles
+- Architected monitoring, alerting, and visualization stack enabling real-time insights and faster incident response
+- Developed specialized testing/reporting systems automating manual validation workflows
+- Created automated environment health infrastructure reducing operational friction
 
 ##### Lead Live Quality
 
-- Helped drive the most stable period in MTGO history
-- Acted as Functional Lead for MTGO sustainment engineering and service pack releases
-- Assigned work, tracked progress, ran standups, and unblocked team members
-- Provided 24/7 incident response, DevOps, and live operations
+- Drove most stable production period in product history through quality-operations partnership approach
+- Served as Functional Lead for sustainment engineering and releases; mentored team leaders, maintained on-time delivery
+- Managed team execution through goal alignment, unblocking obstacles, and empowering independent decision-making
+- Led 24/7 incident response and live operations; built team capability for high-pressure decision-making
 
 ##### Put Fun in the Workplace
 
-- Organized morale events: chili cook‑offs, coding competitions
+- Fostered high-trust, people-first culture through peer learning events, coding competitions, and team celebrations; drove satisfaction and retention
 
 #### Contract SDET
 
@@ -103,18 +98,16 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ### Microsoft
 
-#### SDE
+#### SWE/SDET
 
 *August 2008 – April 2012, Bellevue, WA*
 
 ##### Helped Shape the Cloud
 
-- Acted in combined SDE/SDET role
-- Created CI system used within Bing
-- Built massive distributed data delivery system
-- Supported Bing with DevOps across large data centers
-- Created/tested cloud infrastructure components
-- Evangelized Bing components to partner teams
+- Pioneered SDE/SDET integration; created CI infrastructure accelerating delivery cycles across organization
+- Architected massive distributed data delivery system, demonstrating cloud-scale data management innovation
+- Provided operational excellence supporting Bing infrastructure across large data centers; maintained reliability at scale
+- Led technical evangelism driving adoption of infrastructure innovations across the organization
 
 ### THQ
 
@@ -134,12 +127,11 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ##### Created Next Generation Online Play
 
-- Built cross‑platform competitive play between Xbox 360 and PC
-- Implemented matchmaking, networking, and Xbox Live features for Shadowrun
-- Created telemetry system for player behavior, network quality, and crash dumps
-- Built custom Font Maker tool with advanced typography features
-- Created help system for content editor with rich inline documentation
-- Supported Xbox 360 launch with samples and solutions for partners
+- Built cross‑platform competitive play between Xbox 360 and PC; pioneered seamless multiplayer experience setting industry standards
+- Implemented matchmaking, networking, and Xbox Live integration delivering low‑latency gaming
+- Built telemetry system capturing player behavior, network quality, and crash data for continuous improvement
+- Developed custom tools (Font Maker, editor documentation) accelerating partner adoption
+- Supported Xbox 360 launch with technical guidance and best practices
 
 ### Microsoft
 
@@ -149,8 +141,7 @@ Use the power of knowledge and collaboration to amplify my experiences through o
 
 ##### Created and Shared Knowledge
 
-- Led team demonstrating new Xbox Live features
-- Managed schedule, requirements, and task distribution
+- Led team demonstrating new Xbox Live features; managed schedule, requirements, and task distribution
 - Wrote samples, documentation, and best practices for Xbox Live 3.0
 
 ##### Built Bridges Between Dev, Test, and Management

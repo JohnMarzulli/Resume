@@ -148,7 +148,7 @@ while (i < expLines.length) {
         while (i < expLines.length && !expLines[i].trim()) i++;
         if (i < expLines.length && expLines[i].match(/^\*/)) {
           const dates = expLines[i].replace(/^\*|\*$/g, '').trim();
-          expHtml += `                <span class="role-when}">${esc(dates)}</span>\n`;
+          expHtml += `                <span class="role-when">${esc(dates)}</span>\n`;
           i++;
         }
         expHtml += `              </div>\n`;

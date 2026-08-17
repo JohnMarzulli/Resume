@@ -280,8 +280,6 @@
     white-space: nowrap;
   }
 
-  .role-when.current { color: var(--accent-2); }
-
   .role ul.bullets {
     margin: 0;
     padding-left: 1.1rem;
@@ -302,6 +300,47 @@
     margin: 1rem 0 0.5rem;
   }
   .theme-label:first-of-type { margin-top: 0; }
+
+  /* ---------- Projects ---------- */
+
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .project {
+    padding-bottom: 1.75rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .project:last-child { padding-bottom: 0; border-bottom: none; }
+
+  .project-name {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.6rem;
+    color: var(--ink);
+  }
+
+  .project-desc {
+    margin: 0 0 0.5rem;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+
+  .project-tech {
+    margin: 0 0 0.4rem;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  .project-link {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+  }
 
   footer.colophon {
     margin-top: 3.5rem;
@@ -354,6 +393,9 @@
           <span class="chip">C# / DotNet</span>
           <span class="chip">TypeScript</span>
           <span class="chip">Python</span>
+          <span class="chip">REST</span>
+          <span class="chip">Playwright</span>
+          <span class="chip">Selenium</span>
         </div>
       </div>
 
@@ -375,14 +417,14 @@
       </section>
 
       <section class="experience">
-        <h2 class="section-title">Experience</h2>
+        <h2 class="section-title">Professional Experience</h2>
         <div class="timeline">
                     <div class="company-group">
             <h3 class="company-name">Valorem Reply</h3>
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Senior Consultant, Director of Quality Engineering</span>
-                <span class="role-when current">February 2023 – Present, Seattle, WA</span>
+                <span class="role-when}">February 2023 – Present, Seattle, WA</span>
               </div>
               <ul class="bullets">
                 <li>Lead multiple product teams simultaneously</li>
@@ -395,7 +437,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Lead Engineer, Senior Quality Engineer</span>
-                <span class="role-when">July 2017 – February 2023, Seattle, WA</span>
+                <span class="role-when}">July 2017 – February 2023, Seattle, WA</span>
               </div>
               <ul class="bullets">
                 <li>Leading development of cutting‑edge REST, Web, and DB test automation</li>
@@ -408,7 +450,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Senior Software Development Engineer in Test</span>
-                <span class="role-when">June 2016 – March 2017, Seattle, WA</span>
+                <span class="role-when}">June 2016 – March 2017, Seattle, WA</span>
               </div>
               <ul class="bullets">
                 <li>Web UI Automation and Internationalization for the Signing component</li>
@@ -420,7 +462,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">SDET / QE Lead for Live &amp; Maintenance</span>
-                <span class="role-when">May 2013 – June 2016, Renton, WA</span>
+                <span class="role-when}">May 2013 – June 2016, Renton, WA</span>
               </div>
               <p class="theme-label">Improved Code Quality</p>
               <ul class="bullets">
@@ -457,7 +499,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Contract SDET</span>
-                <span class="role-when">April 2012 – May 2013, Renton, WA</span>
+                <span class="role-when}">April 2012 – May 2013, Renton, WA</span>
               </div>
               <ul class="bullets">
                 <li>Wrote automation and tested credit card processor rewrite</li>
@@ -470,7 +512,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">SDE</span>
-                <span class="role-when">August 2008 – April 2012, Bellevue, WA</span>
+                <span class="role-when}">August 2008 – April 2012, Bellevue, WA</span>
               </div>
               <p class="theme-label">Helped Shape the Cloud</p>
               <ul class="bullets">
@@ -488,7 +530,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Software Engineer</span>
-                <span class="role-when">May 2007 – July 2008, Kirkland, WA</span>
+                <span class="role-when}">May 2007 – July 2008, Kirkland, WA</span>
               </div>
               <ul class="bullets">
                 <li>Shipped a game in under a year</li>
@@ -502,7 +544,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Software Engineer</span>
-                <span class="role-when">June 2005 – March 2007, Redmond, WA</span>
+                <span class="role-when}">June 2005 – March 2007, Redmond, WA</span>
               </div>
               <p class="theme-label">Created Next Generation Online Play</p>
               <ul class="bullets">
@@ -520,7 +562,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Contract SDE</span>
-                <span class="role-when">2004 – 2005, Redmond, WA</span>
+                <span class="role-when}">2004 – 2005, Redmond, WA</span>
               </div>
               <p class="theme-label">Created and Shared Knowledge</p>
               <ul class="bullets">
@@ -540,7 +582,7 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Software Engineer</span>
-                <span class="role-when">2001 – 2003, Lewisville, TX</span>
+                <span class="role-when}">2001 – 2003, Lewisville, TX</span>
               </div>
               <ul class="bullets">
                 <li>AI/gameplay programmer for &quot;4x4 Evo 2&quot; and &quot;Roadkill&quot;</li>
@@ -552,13 +594,50 @@
             <div class="role">
               <div class="role-header">
                 <span class="role-title">Programming Intern</span>
-                <span class="role-when">May 1998 – August 1998, Gaithersburg, MD</span>
+                <span class="role-when}">May 1998 – August 1998, Gaithersburg, MD</span>
               </div>
               <ul class="bullets">
                 <li>Programmed interactive world objects using custom LISP‑based language for Centipede 3D</li>
               </ul>
             </div>
         </div>
+
+        </div>
+      </section>
+
+      <section class="projects">
+        <h2 class="section-title">Open Source Projects</h2>
+        <div class="project-list">
+                    <div class="project">
+            <h3 class="project-name">GrocerEase</h3>
+            <p class="project-desc">An add free, cookie free, way to easily manage &amp; share your grocery lists. Mobile first. Designed for simplicity, focus, and ease.</p>
+            <p class="project-tech">TypeScript, Node, Azure</p>
+            <p class="project-link"><a href="https://grocer-ease.net/">https://grocer-ease.net/</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-name">StratuxHUD</h3>
+            <p class="project-desc">A full Head Up Display visualization for light aircraft. Displays current traffic, weather, and airport information, and more. Integrates with GDL-90 and Dynon data sources. Complete with an Open Source display system.</p>
+            <p class="project-tech">Raspberry Pi, Python, TypeScript, Node</p>
+            <p class="project-link"><a href="https://github.com/JohnMarzulli/StratuxHud">https://github.com/JohnMarzulli/StratuxHud</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-name">Busy Light</h3>
+            <p class="project-desc">A physical status light you can mount to help keep your meetings and time distraction free.</p>
+            <p class="project-tech">Arduino, C</p>
+            <p class="project-link"><a href="https://github.com/JohnMarzulli/BusyLight">https://github.com/JohnMarzulli/BusyLight</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-name">Weather Map</h3>
+            <p class="project-desc">See Aviation Weather as a showpiece of your house! Adapatable to multiple controllable LEDs.</p>
+            <p class="project-tech">Raspberry Pi, Python, Electronics</p>
+            <p class="project-link"><a href="https://github.com/JohnMarzulli/categorical-sectional">https://github.com/JohnMarzulli/categorical-sectional</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-name">Hangar Buddy</h3>
+            <p class="project-desc">Monitor and control your hangar without Internet or a Cellphone! Connects monitoring systems and controllable devices in a secure way using Long Range Radio.</p>
+            <p class="project-tech">Raspberry Pi, Arduino, LoRa, Electronics</p>
+            <p class="project-link"><a href="https://github.com/JohnMarzulli/HangarBuddy">https://github.com/JohnMarzulli/HangarBuddy</a></p>
+          </div>
 
         </div>
       </section>

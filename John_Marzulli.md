@@ -16,6 +16,9 @@ Seattle, Washington, United States
 - C# / DotNet
 - TypeScript
 - Python
+- REST
+- Playwright
+- Selenium
 
 ## Summary
 

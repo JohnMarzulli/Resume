@@ -32,8 +32,10 @@ People-first engineering leader building high-performing teams with measurable s
 
 *February 2023 – Present, Seattle, WA*
 
-- Lead product teams with people-first mentorship; drive high employee satisfaction and execution velocity. On time, under budget, with high customer satisfaction.
-- Pioneer AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs
+##### Innovated Development & Practices
+
+- Led product teams with people-first mentorship; drove high employee satisfaction and execution velocity. On time, under budget, with high customer satisfaction.
+- Pioneered AI-driven quality tooling (custom MCP servers, automation) delivering 10x acceleration in development workflows and reduced operational costs
 - Reframed Quality Engineering as shared partnership, replacing adversarial dynamics with aligned goals and collaborative problem-solving
 - Transformed quality processes for AI-first era; delivered numerous high-impact proof-of-concept projects accelerating time-to-market
 
@@ -41,9 +43,11 @@ People-first engineering leader building high-performing teams with measurable s
 
 *July 2017 – February 2023, Seattle, WA*
 
-- Led cutting-edge REST, Web, and DB test automation; established industry-leading practices in test strategy. Low code solutions to create validations directly from requirements.
+##### Established Quality Engineering
+
+- Led cutting-edge REST, Web, and DB test automation; established industry-leading practices in test strategy and low-code solutions enabling validation creation directly from requirements
 - Mentored global distributed team across time zones; fostered engineer growth and technical leadership
-- Drove Shift Left philosophy across development lifecycle, delivering projects on-time and under-budget
+- Drove Shift Left philosophy across development lifecycle, delivering projects on time, under budget
 
 ### DocuSign
 
@@ -63,7 +67,7 @@ People-first engineering leader building high-performing teams with measurable s
 
 - Transformed quality from adversarial gate-keeping to shared partnership through collaborative code review culture
 - Drove shift-left practices enabling earlier detection and measurable reduction in production defects
-- Built integrated static code analysis harness causing issues to be fixed before they entered the code base
+- Built integrated static code analysis harness that caught issues before they entered the code base
 
 ##### Drove Process Forward
 
@@ -169,9 +173,9 @@ People-first engineering leader building high-performing teams with measurable s
 
 ### GrocerEase
 
-An add free, cookie free, way to easily manage & share your grocery lists.
+An ad-free, cookie-free way to easily manage & share your grocery lists.
 
-Mobile first. Designed for simplicity, focus, and ease.
+Mobile-first. Designed for simplicity, focus, and ease.
 
 (TypeScript, Node, Azure)
 
@@ -203,7 +207,7 @@ A physical status light you can mount to help keep your meetings and time distra
 
 See Aviation Weather as a showpiece of your house!
 
-Adapatable to multiple controllable LEDs.
+Adaptable to multiple controllable LEDs.
 
 (Raspberry Pi, Python, Electronics)
 
@@ -211,7 +215,7 @@ Adapatable to multiple controllable LEDs.
 
 ### Hangar Buddy
 
-Monitor and control your hangar without Internet or a Cellphone!
+Monitor and control your hangar without Internet or a cellphone!
 
 Connects monitoring systems and controllable devices in a secure way using Long Range Radio.
 

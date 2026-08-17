@@ -1,0 +1,1 @@
+./export-html.sh; pushd ..; pandoc John_Marzulli.html -o John_Marzulli.pdf --pdf-engine=weasyprint; popd

@@ -142,16 +142,16 @@ while (i < expLines.length) {
         expHtml += `            <div class="role">\n`;
         expHtml += `              <div class="role-header">\n`;
         expHtml += `                <span class="role-title">${esc(title)}</span>\n`;
+        expHtml += `              </div>\n`;
         i++;
 
         // Skip blank lines and find date line
         while (i < expLines.length && !expLines[i].trim()) i++;
         if (i < expLines.length && expLines[i].match(/^\*/)) {
           const dates = expLines[i].replace(/^\*|\*$/g, '').trim();
-          expHtml += `                <span class="role-when">${esc(dates)}</span>\n`;
+          expHtml += `              <span class="role-when">${esc(dates)}</span>\n`;
           i++;
         }
-        expHtml += `              </div>\n`;
 
         // Bullets and themes
         const groups = [];

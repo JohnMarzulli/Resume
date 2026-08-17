@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "John Marzulli's Resume",
+  "scripts": {
+    "build": "node convert.js"
+  },
+  "keywords": ["resume"],
+  "author": "John Marzulli",
+  "license": "MIT"
+}

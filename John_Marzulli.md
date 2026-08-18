@@ -47,6 +47,8 @@ People-first engineering leader managing and influencing 40+ engineers simultane
 
 ##### Established Quality Engineering
 
+- Reduced UI test execution time by 75%
+- Increased API test creation velocity 10x
 - Led cutting-edge REST, Web, and DB test automation; established industry-leading practices in test strategy and low-code solutions enabling validation creation directly from requirements
 - Mentored global distributed team across time zones; fostered engineer growth and technical leadership
 - Drove Shift Left philosophy across development lifecycle, delivering projects on time, under budget

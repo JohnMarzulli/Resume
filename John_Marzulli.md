@@ -9,7 +9,8 @@ Seattle, Washington, United States
 
 - Technology Leadership
 - Software Development
-- Quality Engineering
+- Quality Engineering & SRE
+- CI/CD, Pipelines
 
 ## Core Technologies
 
@@ -19,6 +20,7 @@ Seattle, Washington, United States
 - REST
 - Playwright
 - Selenium
+- Azure
 
 ## Summary
 

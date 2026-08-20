@@ -47,8 +47,8 @@ People-first engineering leader managing and influencing 40+ engineers simultane
 
 ##### Established Quality Engineering
 
-- Reduced UI test execution time by 75%
-- Increased API test creation velocity 10x
+- Reduced Selenium and Playwright test execution time by 75%
+- Increased REST API test creation velocity 10x
 - Led cutting-edge REST, Web, and DB test automation; established industry-leading practices in test strategy and low-code solutions enabling validation creation directly from requirements
 - Mentored global distributed team across time zones; fostered engineer growth and technical leadership
 - Drove Shift Left philosophy across development lifecycle, delivering projects on time, under budget
@@ -65,44 +65,20 @@ People-first engineering leader managing and influencing 40+ engineers simultane
 
 #### SDET / QE Lead for Live & Maintenance
 
-*May 2013 – June 2016, Renton, WA*
+*April 2012 – June 2016, Renton, WA*
 
-##### Improved Code Quality
+##### Lead Live Quality & Innovation
+
+- Led 5-person QE team driving most stable production period in product history;
+- Created monitoring, alerting, and visualization stack enabling real-time insights saved 5x salary in a single quarter
+- Pioneered automated function/performance comparison testing for database upgrades; 10x acceleration in validation cycles
+
+##### Process & Culture
 
 - Transformed quality from adversarial gate-keeping to shared partnership through collaborative code review culture
-- Drove shift-left practices enabling earlier detection and measurable reduction in production defects
-- Built integrated static code analysis harness that caught issues before they entered the code base
-
-##### Drove Process Forward
-
 - Established SDET standards and collaborative review process, scaling quality practices across teams
-- Designed standardized SDET screening and mentorship for FTE, contract, and vendor candidates; built global bench strength
 - Built knowledge repository converting tribal knowledge to institutional knowledge, reducing onboarding friction
-
-##### Innovated With Tools
-
-- Pioneered automated function/performance comparison testing for database upgrades; 10x acceleration in validation cycles
-- Architected monitoring, alerting, and visualization stack enabling real-time insights and faster incident response
-- Developed specialized testing/reporting systems automating manual validation workflows
-- Created automated environment health infrastructure reducing operational friction
-
-##### Lead Live Quality
-
-- Led 5-person QE team driving most stable production period in product history; established quality-operations partnership approach replacing siloed dynamics
-- Served as Functional Lead for sustainment engineering and releases; mentored team leaders to independent decision-making, maintained on-time delivery
-- Managed team execution through goal alignment, unblocking obstacles, and empowering engineers to own production quality
-- Led 24/7 incident response and live operations; built team capability for high-pressure troubleshooting and rapid issue resolution
-
-##### Put Fun in the Workplace
-
 - Fostered high-trust, people-first culture through peer learning events, coding competitions, and team celebrations; drove satisfaction and retention
-
-#### Contract SDET
-
-*April 2012 – May 2013, Renton, WA*
-
-- Wrote automation and tested credit card processor rewrite
-- Led automation/testing for new MTGO features
 
 ### Microsoft
 

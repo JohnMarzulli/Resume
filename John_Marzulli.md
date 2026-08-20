@@ -22,7 +22,7 @@ Seattle, Washington, United States
 
 ## Summary
 
-People-first engineering leader managing and influencing 40+ engineers simultaneously, building high-performing organizations with measurable employee satisfaction and execution velocity. Pioneer of AI-driven tooling delivering 10x efficiency gains. Cross-border mentor growing engineers from junior developers to technical leaders.
+Engineering leader with 25+ years of shipping software, 15+ years leading and influencing organizations. Led and influenced 40+ engineers simultaneously. My teams had the highest measurable employee satisfaction and execution velocity. Pioneer of tools and frameworks that delivered 10x velocity gains. Cross-border mentor growing engineers from junior developers to technical leaders.
 
 ## Professional Experience
 
